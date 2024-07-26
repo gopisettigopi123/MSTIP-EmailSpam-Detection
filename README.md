@@ -49,7 +49,7 @@ The dataset is ready for training, so we create a naive classifier using scikit-
 ## ➲ Installation
 1. Clone the repo
    ```sh
-   git clone 
+   git clone https://github.com/gopisettigopi123/MSTIP-EmailSpam-Detection.git
    ```
 2. Open 'main.ipynb' in Google Colab or VScode and enjoy
 
