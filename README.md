@@ -2,9 +2,7 @@
 <h1 align="center">Email Spam Detection</h1>
 
 <!-- HEADER -->
-<p align="center">
-  <img src="Images/Email_Spam_Detection_Cover.png"/>
-</p>
+
 
 <!-- PROJECT DESCRIPTION -->
 ## <br>**➲ Project description**
